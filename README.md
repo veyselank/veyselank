@@ -15,11 +15,11 @@
 
 ### :man_technologist: About Me :
 I am a Senior CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying on Data Analysis and enhancing skill sets  frontend and backend for building web & mobile applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Currently working on iOS mobile development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech & finance articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-veyselank-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/veyselank/)
 
