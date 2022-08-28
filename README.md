@@ -44,7 +44,7 @@ I am a Senior CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veyselank&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🤓: Some nerd humor :
+### 🤓
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
