@@ -44,6 +44,8 @@ I am a Senior CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veyselank&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/magandatester.png" alt="TryHackMe">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veyselank&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🤓
