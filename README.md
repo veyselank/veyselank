@@ -14,10 +14,10 @@
 
 
 ### :man_technologist: About Me :
-I am a Senior CS student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: I’m studying on Data Analysis and enhancing skill sets  frontend and backend for building web & mobile applications.
+I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- :telescope: I’m studying on On-Chain Analysis and blockchain fundamentals. 
 
-- :seedling: Currently working on iOS mobile development.
+- :seedling: Currently working as Blockchain Developer.
 
 - :zap: In my free time, I read tech & finance articles.
 
