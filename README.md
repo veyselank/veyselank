@@ -1,4 +1,4 @@
-<div id="header" align="center">
+şu<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -43,8 +43,6 @@ I am a Computer Science Graduate <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veyselank&theme=dark&background=000000)](https://git.io/streak-stats)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/magandatester.png" alt="TryHackMe">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veyselank&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
